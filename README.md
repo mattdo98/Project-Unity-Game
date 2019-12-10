@@ -2,6 +2,9 @@
 
 Code for my COP3003 class, I will be making a unity game following the tutorial found here https://learn.unity.com/project/tanks-tutorial
 
+Video Demonstration link:
+https://youtu.be/iylqQafxTyo
+
 ## Summary
 This game is a 2 person local coop game where two tanks navigate around a desert arena and try to destroy the other tank. 
 
