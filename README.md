@@ -20,11 +20,5 @@ Player 2:
 Arrow Keys - Move around
 Enter Key -  Shoot (Hold down to shoot further indicated by the arrow)
 
-## Month to Month update
-Month 1: downloaded the prefabs and set up the level where the game will be played, I also configured the color and lighting along with the camera direction so only the level will be shown in scale. Next I will be focusing on creating the tanks.
-
-Month 2: Began designing the tank and tank scripts. made the tank able to move and play audio when it does. 
-
-Month 3: Designed the Shell object as well as the Game manager that will control how the game operates. Also did some audio fixing to level out all the sounds in the game. 
 
 
